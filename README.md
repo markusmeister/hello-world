@@ -1,2 +1,2 @@
 # hello-world
-My first attempt at a suppository
+My first attempt at a repository
